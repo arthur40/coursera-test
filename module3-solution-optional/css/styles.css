@@ -1,0 +1,100 @@
+body{
+  font-family: Helvetica;
+  color: black;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0; 
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+
+}
+
+h1 {
+	color: black;
+	font-size: 1.5em;
+	margin-top: 0;
+ 	margin-bottom: 0;
+  	line-height: .75;
+
+}
+
+.navbar-brand a:hover{
+  text-decoration: none;
+}
+
+li:hover{
+  background-color: #D3D3D3;
+}
+
+#collapsable-nav{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.navbar-nav{
+	margin: 0;
+}
+
+#dropdown {
+	text-align: center;
+	background-color: white;
+}
+
+li{	
+	padding: 5px;
+}
+
+ul li:nth-child(2) {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+h2{
+	margin-bottom: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.frame{
+  border: 1px solid black;
+  background-color: grey;
+  font-family: Helvetica;
+  margin-bottom: 15px;
+  margin-top: 0px;
+  
+}
+
+.link{
+	color:	#006597;
+}
+
+.col-xs-12 {
+	padding-top: 15px;
+}
+
+.title {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 0px;
+
+}
+
+.writing {
+  padding: 10px;
+  margin-bottom: 0px;
+
+}
+
+.end {
+  padding-right: 10px;
+  padding-left:10px;
+  margin: 0px;
+}
