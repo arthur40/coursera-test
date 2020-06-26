@@ -1,0 +1,81 @@
+body{
+  font-family: Helvetica;
+  color: black;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0; 
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+
+}
+
+h1 {
+	color: black;
+	font-size: 1.5em;
+	margin-top: 0;
+ 	margin-bottom: 0;
+  	line-height: .75;
+
+}
+
+.navbar-brand a:hover{
+  text-decoration: none;
+}
+
+#collapsable-nav{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.navbar-nav{
+	margin: 0;
+}
+
+#dropdown {
+	text-align: center;
+	background-color: white;
+}
+
+li{	
+	padding: 5px;
+}
+
+#beef {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+h2{
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.frame{
+  background-color: grey;
+  font-family: Helvetica;
+  margin-top: 0px;
+  
+}
+
+.title {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 0px;
+
+}
+
+.writing {
+  padding: 10px;
+  margin-bottom: 0px;
+
+}
